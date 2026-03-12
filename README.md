@@ -9,7 +9,7 @@
 
 **ResourceDrift-Monitor** is a **Python 3** tool designed to detect configuration drift between the “declared” infrastructure state (e.g., what’s defined via IaC) and the “actual” deployed state of cloud resources. It’s built for DevOps engineers, SREs, and governance teams, offering clarity on missing resources, unexpected resources, and attribute mismatches.
 
---------
+----------
 
 ## 🛠 Tech & Languages
 
