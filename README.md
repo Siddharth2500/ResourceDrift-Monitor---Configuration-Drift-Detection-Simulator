@@ -1,4 +1,4 @@
-# 🚀 ResourceDrift-Monitor — Configuration Drift Detection Between Declared & Actual Infrastructure
+# 🚀 ResourceDrift-Monitor - Configuration Drift Detection Between Declared & Actual Infrastructure
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)  
 ![Tool](https://img.shields.io/badge/Drift-Detector-FF5252.svg?logo=alert)  
