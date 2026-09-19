@@ -21,7 +21,7 @@
 | Execution           | Script / Colab / Notebook       | Flexible usage environment                    |
 | Logging             | Console + file write            | Instant summary + persisted audit             |
 
------
+------
 
 ## 🌐 Architecture
 
