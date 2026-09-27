@@ -35,7 +35,7 @@ Flow:
 4. Step 4 – Build `drift_report.json` summarizing totals and listing all drift findings.  
 5. The report can then feed into CI/CD, dashboards, or alerting systems for remediation.
 
----
+-----
 
 ## ▶️ Run ResourceDrift-Monitor
 
